@@ -1,0 +1,39 @@
+/* App.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .tweet {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+  }
+  
+  .tweet h3 {
+    margin: 0 0 5px 0;
+  }
+  
+  .tweet .username {
+    color: #555;
+  }
+  
+  .tweet .date {
+    color: #777;
+    font-size: 0.8em;
+  }
+  
+  .tweet .message {
+    margin-top: 10px;
+  }
+  
